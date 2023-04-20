@@ -1,2 +1,3 @@
 new file created with the name file3
 pushed files to remote repo
+changed default branch to master
